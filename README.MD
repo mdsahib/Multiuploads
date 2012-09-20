@@ -1,0 +1,1 @@
+This is a library for codeigniter to add multiple file upload by just calling a function
